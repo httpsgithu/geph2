@@ -17,7 +17,6 @@ require (
 	github.com/gorilla/mux v1.7.3
 	github.com/hashicorp/golang-lru v0.5.4
 	github.com/hashicorp/yamux v0.0.0-20181012175058-2f1d1f20f75d
-	github.com/jupp0r/go-priority-queue v0.0.0-20160601094913-ab1073853bde
 	github.com/kardianos/osext v0.0.0-20190222173326-2bc1f35cddc0 // indirect
 	github.com/klauspost/cpuid v1.2.1 // indirect
 	github.com/klauspost/reedsolomon v1.9.2
@@ -38,9 +37,8 @@ require (
 	github.com/xtaci/kcp-go v5.4.20+incompatible
 	github.com/xtaci/lossyconn v0.0.0-20190602105132-8df528c0c9ae
 	github.com/xtaci/smux v1.5.7
-	golang.org/x/crypto v0.0.0-20191227163750-53104e6ec876
-	golang.org/x/net v0.0.0-20190923162816-aa69164e4478
-	golang.org/x/sys v0.0.0-20191220220014-0732a990476f // indirect
+	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
+	golang.org/x/net v0.7.0
 	golang.org/x/time v0.0.0-20190921001708-c4c64cad1fd0
 	gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7
 )
